@@ -1,5 +1,5 @@
 # MLP from scratch
-W/O torch
+w/o torch
 
 ### run
 ``` bash
