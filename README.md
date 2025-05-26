@@ -17,8 +17,11 @@ memory usage: 359.3 MB
 ```
 
 ### architecture
-![fig1](./assets/Figure_0.png)
-![fig2](./assets/Figure_1.png)
+![fig0](./assets/Figure_0.png)
+![fig1](./assets/Figure_1.png)
+
+### gradient
+![fig3](./assets/Figure_3.png)
 
 ### result
 ``` bash
@@ -32,4 +35,4 @@ Acc :  0.77745
 Iter:  950
 Acc :  0.9056
 ```
-![fig3](./assets/Figure_2.png)
+![fig2](./assets/Figure_2.png)
